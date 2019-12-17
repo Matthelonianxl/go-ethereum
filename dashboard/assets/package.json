@@ -9,7 +9,7 @@
         "@babel/preset-react": "^7.0.0",
         "@babel/preset-stage-0": "^7.0.0",
         "@fortawesome/fontawesome-free-regular": "^5.0.13",
-        "@fortawesome/fontawesome-svg-core": "^1.2.15",
+        "@fortawesome/fontawesome-svg-core": "^1.2.25",
         "@fortawesome/free-regular-svg-icons": "^5.7.2",
         "@fortawesome/free-solid-svg-icons": "^5.7.2",
         "@fortawesome/react-fontawesome": "^0.1.4",
